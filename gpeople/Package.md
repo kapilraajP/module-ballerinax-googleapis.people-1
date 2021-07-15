@@ -7,7 +7,7 @@ Connects to Google People API from Ballerina
 | Ballerina Language Version                                                         | **Swan Lake Beta 2**  |
 | [Google People API](https://developers.google.com/people) Version     | **V1**              |
 
-The `googleapis.people` is a [Ballerina](https://ballerina.io/) connector for Google People API.
+The `ballerinax/googleapis.people` is a [Ballerina](https://ballerina.io/) connector for Google People API.
 
 This package provides the capability to easily access Google People API.
 
