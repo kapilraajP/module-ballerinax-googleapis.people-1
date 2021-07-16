@@ -8,7 +8,7 @@
 
 This connector provides operations for connecting and interacting with Google People API endpoints over the network. 
 For more information about configuration and operations, go to the module. 
-- [`ballerinax/googleapis.people`](https://docs.central.ballerina.io/ballerinax/googleapis.people/latest).
+- [`ballerinax/googleapis.people`](https://docs.central.ballerina.io/ballerinax/googleapis.people/latest)
 
 # Building from the Source
 ## Setting Up the Prerequisites
