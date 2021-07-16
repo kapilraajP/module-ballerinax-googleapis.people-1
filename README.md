@@ -4,13 +4,11 @@
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/ballerina-platform/module-ballerinax-googleapis.people.svg)](https://github.com/ballerina-platform/module-ballerinax-googleapis.people/commits/master)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-The `googleapis.people` is a [Ballerina](https://ballerina.io/) connector for Google People API.
-
 [Google People API](https://developers.google.com/people) is a contact and contact group management service developed by Google.
 
 This connector provides operations for connecting and interacting with Google People API endpoints over the network. 
 For more information about configuration and operations, go to the module. 
-- [`googleapis.people`](https://docs.central.ballerina.io/ballerinax/googleapis.people/latest).
+- [`ballerinax/googleapis.people`](https://docs.central.ballerina.io/ballerinax/googleapis.people/latest).
 
 # Building from the Source
 ## Setting Up the Prerequisites
